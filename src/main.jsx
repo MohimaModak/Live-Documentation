@@ -31,7 +31,7 @@ const router = createBrowserRouter([
         element: <Sidebar></Sidebar>,
       },
       {
-        path: "/ProjectOverview",
+        path: "/",
         element: <ProjectOverview></ProjectOverview>,
       },
       {

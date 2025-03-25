@@ -6,7 +6,7 @@ export default function Sidebar() {
 
     return (
         <div className="h-screen overflow-y-auto w-64 bg-slate-100 text-black shadow-2xl p-4 relative">
-            <NavLink to="/ProjectOverview" className="block py-3 hover:text-blue-600 font-bold pt-16">
+            <NavLink to="/" className="block py-3 hover:text-blue-600 font-bold pt-16">
                 Project Overview
             </NavLink>
 
